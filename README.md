@@ -11,7 +11,7 @@
 - **Nombre:** Nicolás Aversa  
 - **Usuario GitHub:** @nicolas-aversa  
 - **Correo:** naversa@uade.edu.ar  
-- **LinkedIn:** linkedin.com/in/n-aversa/  
+- **LinkedIn:** https://www.linkedin.com/in/n-aversa/
 
 ---
 
@@ -22,7 +22,7 @@
 - **Nombre:** Ezequiel Castelnuovo  
 - **Usuario GitHub:** @ezequielcastelnuovo  
 - **Correo:** ecastelnuovo@uade.edu.ar  
-- **LinkedIn:** linkedin.com/in/ezequielcastelnuovo/  
+- **LinkedIn:** https://www.linkedin.com/in/ezequielcastelnuovo/  
 
 ---
 
@@ -33,7 +33,7 @@
 - **Nombre:** Valentino Virzi  
 - **Usuario GitHub:** @Vvirzi  
 - **Correo:** vvirzi@uade.edu.ar  
-- **LinkedIn:** linkedin.com/in/valentino-virzi  
+- **LinkedIn:** https://www.linkedin.com/in/valentino-virzi  
 
 ---
 
@@ -44,7 +44,7 @@
 - **Nombre:** Caterina Turdo  
 - **Usuario GitHub:** @cate7173  
 - **Correo:** cturdo@uade.edu.ar  
-- **LinkedIn:** linkedin.com/in/caterina-turdo-190320129/  
+- **LinkedIn:** https://www.linkedin.com/in/caterina-turdo-190320129/  
 
 ---
 
@@ -55,4 +55,4 @@
 - **Nombre:** Guido Botta  
 - **Usuario GitHub:** @Guido-c66  
 - **Correo:** gbotta@uade.edu.ar  
-- **LinkedIn:** linkedin.com/in/guido-b-b86b33305/  
+- **LinkedIn:** https://www.linkedin.com/in/guido-b-b86b33305/  
