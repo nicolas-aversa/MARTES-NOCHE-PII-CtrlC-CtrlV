@@ -6,54 +6,53 @@
 
 ## 🧑‍💻 Integrante 1
 
-![Foto de Integrante 1](./img/foto1.jpg)
+<img src="./img/foto1.jpg" width="150">
 
-- **Nombre:** Nicolás Aversa
+- **Nombre:** Nicolás Aversa  
 - **Usuario GitHub:** @nicolas-aversa  
-- **Correo:** naversa@uade.edu.ar 
-- **LinkedIn:** linkedin.com/in/n-aversa/
+- **Correo:** naversa@uade.edu.ar  
+- **LinkedIn:** linkedin.com/in/n-aversa/  
 
 ---
 
 ## 🧑‍💻 Integrante 2
 
-![Foto de Integrante 2](./img/foto2.jpg)
+<img src="./img/foto2.jpg" width="150">
 
-- **Nombre:** Ezequiel Castelnuovo
-- **Usuario GitHub:** @ezequielcastelnuovo 
-- **Correo:** ecastelnuovo@uade.edu.ar
-- **LinkedIn:** linkedin.com/in/ezequielcastelnuovo/
+- **Nombre:** Ezequiel Castelnuovo  
+- **Usuario GitHub:** @ezequielcastelnuovo  
+- **Correo:** ecastelnuovo@uade.edu.ar  
+- **LinkedIn:** linkedin.com/in/ezequielcastelnuovo/  
 
 ---
 
 ## 🧑‍💻 Integrante 3
 
-![Foto de Integrante 3](./img/foto3.jpg)
+<img src="./img/foto3.jpg" width="150">
 
 - **Nombre:** Valentino Virzi  
 - **Usuario GitHub:** @Vvirzi  
-- **Correo:** vvirzi@uade.edu.ar
-- **LinkedIn:** linkedin.com/in/valentino-virzi
+- **Correo:** vvirzi@uade.edu.ar  
+- **LinkedIn:** linkedin.com/in/valentino-virzi  
 
 ---
 
 ## 🧑‍💻 Integrante 4
 
-![Foto de Integrante 4](./img/foto4.jpg)
+<img src="./img/foto4.jpg" width="150">
 
-- **Nombre:** - Caterina Turdo  
-- **Usuario GitHub:** - @cate7173  
-- **Correo:** - cturdo@uade.edu.ar 
-- **LinkedIn:** linkedin.com/in/caterina-turdo-190320129/
+- **Nombre:** Caterina Turdo  
+- **Usuario GitHub:** @cate7173  
+- **Correo:** cturdo@uade.edu.ar  
+- **LinkedIn:** linkedin.com/in/caterina-turdo-190320129/  
 
 ---
 
 ## 🧑‍💻 Integrante 5
 
-![Foto de Integrante 4](./img/foto5.jpg)
+<img src="./img/foto5.jpg" width="150">
 
-- **Nombre:** - Gbotta@uade.edu.ar
-- **Usuario GitHub:** - @Guido-c66
-- **Correo:** - gbotta@uade.edu.ar
-- **LinkedIn:** linkedin.com/in/guido-b-b86b33305/
-
+- **Nombre:** Guido Botta  
+- **Usuario GitHub:** @Guido-c66  
+- **Correo:** gbotta@uade.edu.ar  
+- **LinkedIn:** linkedin.com/in/guido-b-b86b33305/  
