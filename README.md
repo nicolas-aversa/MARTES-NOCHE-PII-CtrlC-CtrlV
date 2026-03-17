@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 Integrante 1
+## 👨🏻‍💻 Integrante 1
 
 <img src="./img/foto1.jpg" width="150">
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 Integrante 2
+## 👨🏻‍💻 Integrante 2
 
 <img src="./img/foto2.jpg" width="150">
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧑‍💻 Integrante 3
+## 👨🏻‍💻 Integrante 3
 
 <img src="./img/foto3.jpg" width="150">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧑‍💻 Integrante 4
+## 👩🏼‍💻 Integrante 4
 
 <img src="./img/foto4.jpg" width="150">
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🧑‍💻 Integrante 5
+## 🧑🏻‍💻 Integrante 5
 
 <img src="./img/foto5.jpg" width="150">
 
