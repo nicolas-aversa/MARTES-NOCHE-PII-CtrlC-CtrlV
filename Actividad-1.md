@@ -13,3 +13,4 @@ Nos volcamos por la primer implementación, Un arreglo y una variable externa au
 Si tenemos en cuenta la complejidad del problema a solucionar con el sistema, las otras 2 opciones se vuelven en cierta posición inviables por su complejidad, la prioridad en este sistema es que las pelotas ocupen y desocupen rápidamente su lugar.
 
 
+<img src="./img/diagrama.jpg" width="450">
